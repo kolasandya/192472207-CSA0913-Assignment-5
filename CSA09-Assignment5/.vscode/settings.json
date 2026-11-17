@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "TaskA1_FileDesign",
+        "TaskA2_Buffering",
+        "TaskA3_DAO",
+        "TaskA4_Serialization",
+        "TaskA5_Transactions",
+        "TaskB1_FileStore",
+        "TaskB2_Adversarial",
+        "TaskB3_BatchLoader",
+        "TaskB4_Migration"
+    ],
+    "java.project.outputPath": "bin",
+    "files.exclude": {
+        "bin": true
+    }
+}
